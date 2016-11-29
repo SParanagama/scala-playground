@@ -25,7 +25,7 @@ object MapExamples {
 
     val nameIds = Map( "adam" -> 4, "john" -> 21, "tom" -> 2, "betty" -> 1, "sam" -> 9, "harry" -> 20 )
 
-    // Q5. Using the above 'nameIds', make a new list having the ids of the corresponding name
+    // Q5. Using the above 'nameIds', make a new list having the ids of the names in 'nameList
 
 
   }
